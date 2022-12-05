@@ -1,2 +1,3 @@
 #!/bin/bash
-touch 0-hello_world
+echo '0-hello_world'
+
